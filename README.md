@@ -1,2 +1,2 @@
 # Small-PHP-Project
-It's a little contribution. It's a learning project that's mean first I learn and then I practice and make it. 
+This is a small project means a learing project. When i learnt PHP and practicing the PHP code then i made this project. And it works correctly. This project is made by PHP row code with MySql in localhost. Through this project i also learn the database. In this project you can add pizza with the name of pizza and its ingredients and how good the pizza. It's a little contribution. It's a learning project that's mean first I learn and then I practice and make it. 
